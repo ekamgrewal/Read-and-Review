@@ -1,6 +1,8 @@
 # Read-and-Review
 A book review web platform for readers looking to provide reviews on books they read and authors looking to post their newly published books.
 
+**Complete demo video:** https://youtu.be/V53d9yOOIbU
+
 **Register as a new user and login:**
 
 https://user-images.githubusercontent.com/72091301/197170132-3291428c-1f65-44d9-96ea-4f8f273c62ea.mov
