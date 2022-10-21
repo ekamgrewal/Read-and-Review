@@ -1,0 +1,26 @@
+﻿(ONLY For Windows) 
+
+
+1. Search download python 3.7
+2. https://www.python.org/downloads/release/python-370/
+3. Based on your operating system download the corresponding file
+4. Open the setup file
+5. Select Custom Installation
+6. Select Next
+7. Select install for all users
+8. Check add python 3.7 to path
+9. Select install now
+10. Close setup window after successful installation
+11. Open command prompt
+12. Type in Pip install django==2.0 in the Command prompt
+13. Hit enter to install
+14. Type in pip3.7 install virtualenv
+15. Extract the cmpe133_project-main.zip file
+16. Open Command prompt
+17. CD into the extracted folder [cmpe133_project-main] in the Command prompt
+18. Enter python -m venv virtual in the Command prompt
+19. Enter virtual\Scripts\activate in the Command prompt
+20. Enter python -m pip install -r requirements.txt in the Command prompt
+21. Enter python manage.py runserver in the Command prompt
+22. Navigate to http://127.0.0.1:8000/ on your browser
+Done!
