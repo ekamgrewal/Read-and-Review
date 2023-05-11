@@ -1,4 +1,4 @@
-# Read-and-Review
+# Read-and-Review (w/ Demo)
 A book review web platform for readers looking to provide reviews on books they read and authors looking to post their newly published books.
 
 **Complete demo video:** https://youtu.be/V53d9yOOIbU
